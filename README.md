@@ -4,7 +4,7 @@
 
 ### General info
 
-Credit Card Checker is code for training task from Codecademy Full-stack Course.
+Credit Card Checker is code for training task from Codecademy Full-Stack Course.
 
 ## Tehnologies
 
