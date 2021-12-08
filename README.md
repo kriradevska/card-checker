@@ -1,6 +1,6 @@
 # Credit Card Checker
 
-## Codecademy Full-stack Course Project
+## Codecademy Full-Stack Course Project
 
 ### General info
 
